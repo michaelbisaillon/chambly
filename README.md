@@ -33,4 +33,4 @@ Pour exécuter cette application en local :
    ```bash
    git clone https://github.com/michaelbisaillon/chambly.git
 
-Développé par Michaël Bisaillon et Dominque Roy.
+Développé par Michaël Bisaillon et Dominique Roy.

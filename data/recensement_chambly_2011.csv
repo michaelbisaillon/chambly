@@ -1,0 +1,473 @@
+annee,theme,id_caracteristiques,nom_caracteristiques,chiffre_total,chiffre_hommes,chiffres_femmes
+2011,Chiffres de population et des logements,1,Population en 2011,25571,,
+2011,Chiffres de population et des logements,2,Population en 2006,22608,,
+2011,Chiffres de population et des logements,3,Variation de la population entre 2006 et 2011 (%),13.1,,
+2011,Chiffres de population et des logements,4,Total des logements privés,10093,,
+2011,Chiffres de population et des logements,5,Logements privés occupés par des résidents habituels,9809,,
+2011,Chiffres de population et des logements,6,Densité de la population au kilomètre carré,1018.2,,
+2011,Chiffres de population et des logements,7,Superficie des terres (en kilomètres carrés),25.11,,
+2011,Caractéristiques selon l'âge,8,Population totale selon l'âge,25570,12470,13100
+2011,Caractéristiques selon l'âge,9,0 à 4 ans,1955,995,955
+2011,Caractéristiques selon l'âge,10,5 à 9 ans,1720,845,875
+2011,Caractéristiques selon l'âge,11,10 à 14 ans,1730,840,890
+2011,Caractéristiques selon l'âge,12,15 à 19 ans,1995,1045,950
+2011,Caractéristiques selon l'âge,13,15 ans,380,205,180
+2011,Caractéristiques selon l'âge,14,16 ans,445,245,200
+2011,Caractéristiques selon l'âge,15,17 ans,465,225,240
+2011,Caractéristiques selon l'âge,16,18 ans,350,180,170
+2011,Caractéristiques selon l'âge,17,19 ans,350,195,160
+2011,Caractéristiques selon l'âge,18,20 à 24 ans,1265,640,630
+2011,Caractéristiques selon l'âge,19,25 à 29 ans,1570,755,815
+2011,Caractéristiques selon l'âge,20,30 à 34 ans,2100,990,1105
+2011,Caractéristiques selon l'âge,21,35 à 39 ans,2080,1000,1075
+2011,Caractéristiques selon l'âge,22,40 à 44 ans,1965,955,1010
+2011,Caractéristiques selon l'âge,23,45 à 49 ans,2175,1065,1115
+2011,Caractéristiques selon l'âge,24,50 à 54 ans,1940,945,995
+2011,Caractéristiques selon l'âge,25,55 à 59 ans,1390,705,685
+2011,Caractéristiques selon l'âge,26,60 à 64 ans,1170,560,610
+2011,Caractéristiques selon l'âge,27,65 à 69 ans,895,435,460
+2011,Caractéristiques selon l'âge,28,70 à 74 ans,605,285,325
+2011,Caractéristiques selon l'âge,29,75 à 79 ans,440,200,240
+2011,Caractéristiques selon l'âge,30,80 à 84 ans,325,125,205
+2011,Caractéristiques selon l'âge,31,85 ans et plus,250,80,170
+2011,Caractéristiques selon l'âge,32,Âge médian de la population,36.0,35.6,36.4
+2011,Caractéristiques selon l'âge,33,% de la population âgée de 15 ans et plus,78.9,78.5,79.2
+2011,État matrimonial,34,Population de 15 ans et plus selon l'état matrimonial,20170,9785,10380
+2011,État matrimonial,35,Marié(e) ou vivant avec un(e) partenaire en union libre,12420,6210,6205
+2011,État matrimonial,36,Marié(e) (et non séparé(e)),6545,3275,3275
+2011,État matrimonial,37,Vivant en union libre,5870,2935,2935
+2011,État matrimonial,38,Non marié(e) et ne vivant pas avec un(e) partenaire en union libre,7750,3580,4170
+2011,État matrimonial,39,Célibataire (jamais légalement marié(e)),5400,2800,2605
+2011,État matrimonial,40,Séparé(e),280,125,160
+2011,État matrimonial,41,Divorcé(e),1285,485,800
+2011,État matrimonial,42,Veuf ou veuve,790,175,615
+2011,Caractéristiques de la famille,43,Nombre total de familles de recensement dans les ménages privés,7410,,
+2011,Caractéristiques de la famille,44,Taille de la famille de recensement : 2 personnes,3230,,
+2011,Caractéristiques de la famille,45,Taille de la famille de recensement : 3 personnes,1770,,
+2011,Caractéristiques de la famille,46,Taille de la famille de recensement : 4 personnes,1800,,
+2011,Caractéristiques de la famille,47,Taille de la famille de recensement : 5 personnes ou plus,610,,
+2011,Caractéristiques de la famille,48,Nombre total de familles de recensement dans les ménages privés,7415,,
+2011,Caractéristiques de la famille,49,Total des familles comptant un couple selon la structure familiale et le nombre d'enfants,6140,,
+2011,Caractéristiques de la famille,50,Couples mariés,3210,,
+2011,Caractéristiques de la famille,51,Sans enfants à la maison,1445,,
+2011,Caractéristiques de la famille,52,Avec enfants à la maison,1765,,
+2011,Caractéristiques de la famille,53,1 enfant,620,,
+2011,Caractéristiques de la famille,54,2 enfants,820,,
+2011,Caractéristiques de la famille,55,3 enfants ou plus,325,,
+2011,Caractéristiques de la famille,56,Couples en union libre,2930,,
+2011,Caractéristiques de la famille,57,Sans enfants à la maison,1095,,
+2011,Caractéristiques de la famille,58,Avec enfants à la maison,1835,,
+2011,Caractéristiques de la famille,59,1 enfant,690,,
+2011,Caractéristiques de la famille,60,2 enfants,875,,
+2011,Caractéristiques de la famille,61,3 enfants ou plus,270,,
+2011,Caractéristiques de la famille,62,Total des familles monoparentales selon le sexe du parent et le nombre d'enfants,1270,,
+2011,Caractéristiques de la famille,63,Parent de sexe féminin,930,,
+2011,Caractéristiques de la famille,64,1 enfant,505,,
+2011,Caractéristiques de la famille,65,2 enfants,335,,
+2011,Caractéristiques de la famille,66,3 enfants ou plus,85,,
+2011,Caractéristiques de la famille,67,Parent de sexe masculin,340,,
+2011,Caractéristiques de la famille,68,1 enfant,190,,
+2011,Caractéristiques de la famille,69,2 enfants,120,,
+2011,Caractéristiques de la famille,70,3 enfants ou plus,30,,
+2011,Caractéristiques de la famille,71,Nombre d'enfants dans les familles de recensement dans les ménages privés,8610,,
+2011,Caractéristiques de la famille,72,Moins de 6 ans,2350,,
+2011,Caractéristiques de la famille,73,6 à 14 ans,3020,,
+2011,Caractéristiques de la famille,74,15 à 17 ans,1270,,
+2011,Caractéristiques de la famille,75,18 à 24 ans,1535,,
+2011,Caractéristiques de la famille,76,25 ans et plus,430,,
+2011,Caractéristiques de la famille,77,Nombre moyen d'enfants à la maison par famille de recensement,1.2,,
+2011,Caractéristiques des ménages et des logements,78,Nombre total de personnes dans les ménages privés,25285,12375,12910
+2011,Caractéristiques des ménages et des logements,79,Nombre de personnes hors famille de recensement,3115,1435,1685
+2011,Caractéristiques des ménages et des logements,80,Vivant avec des personnes apparentées,370,160,215
+2011,Caractéristiques des ménages et des logements,81,Vivant avec des personnes non apparentées seulement,520,280,235
+2011,Caractéristiques des ménages et des logements,82,Vivant seules,2230,995,1235
+2011,Caractéristiques des ménages et des logements,83,Nombre de personnes membres d'une famille de recensement,22170,10940,11225
+2011,Caractéristiques des ménages et des logements,84,Nombre moyen de personnes par famille de recensement,3.0,,
+2011,Caractéristiques des ménages et des logements,85,Nombre total de personnes âgées de 65 et plus dans les ménages privés,2260,1045,1215
+2011,Caractéristiques des ménages et des logements,86,Nombre de personnes hors famille de recensement âgées de 65 ans et plus,735,210,530
+2011,Caractéristiques des ménages et des logements,87,Vivant avec des personnes apparentées,105,25,80
+2011,Caractéristiques des ménages et des logements,88,Vivant avec des personnes non apparentées seulement,40,15,25
+2011,Caractéristiques des ménages et des logements,89,Vivant seules,590,170,420
+2011,Caractéristiques des ménages et des logements,90,Nombre de personnes membres d'une famille de recensement âgées de 65 ans et plus,1525,835,690
+2011,Caractéristiques des ménages et des logements,91,Nombre total de ménages privés selon le genre de ménage,9810,,
+2011,Caractéristiques des ménages et des logements,92,Ménages avec familles de recensement,7340,,
+2011,Caractéristiques des ménages et des logements,93,Ménages unifamiliaux seulement,6965,,
+2011,Caractéristiques des ménages et des logements,94,Ménages familiaux comptant un couple,5855,,
+2011,Caractéristiques des ménages et des logements,95,Sans enfants,2405,,
+2011,Caractéristiques des ménages et des logements,96,Avec enfants,3445,,
+2011,Caractéristiques des ménages et des logements,97,Ménages comptant une famille monoparentale,1105,,
+2011,Caractéristiques des ménages et des logements,98,Autres ménages familiaux,380,,
+2011,Caractéristiques des ménages et des logements,99,Ménages unifamiliaux comptant des personnes hors famille de recensement,305,,
+2011,Caractéristiques des ménages et des logements,100,Ménages familiaux comptant un couple,195,,
+2011,Caractéristiques des ménages et des logements,101,Sans enfants,70,,
+2011,Caractéristiques des ménages et des logements,102,Avec enfants,125,,
+2011,Caractéristiques des ménages et des logements,103,Ménages comptant une famille monoparentale,110,,
+2011,Caractéristiques des ménages et des logements,104,Ménages comptant deux familles ou plus,75,,
+2011,Caractéristiques des ménages et des logements,105,Ménages sans familles de recensement,2470,,
+2011,Caractéristiques des ménages et des logements,106,Ménages comptant une seule personne,2230,,
+2011,Caractéristiques des ménages et des logements,107,Ménages comptant deux personnes ou plus,240,,
+2011,Caractéristiques des ménages et des logements,108,Nombre total de logements privés occupés selon le type de construction résidentielle,9805,,
+2011,Caractéristiques des ménages et des logements,109,Maison individuelle non attenante,5780,,
+2011,Caractéristiques des ménages et des logements,110,Appartement; immeuble de cinq étages ou plus,0,,
+2011,Caractéristiques des ménages et des logements,111,Logement mobile,0,,
+2011,Caractéristiques des ménages et des logements,112,Autre logement,4025,,
+2011,Caractéristiques des ménages et des logements,113,Maison jumelée,610,,
+2011,Caractéristiques des ménages et des logements,114,Maison en rangée,280,,
+2011,Caractéristiques des ménages et des logements,115,Appartement; duplex,265,,
+2011,Caractéristiques des ménages et des logements,116,Appartement; immeuble de moins de cinq étages,2865,,
+2011,Caractéristiques des ménages et des logements,117,Autre maison individuelle attenante,15,,
+2011,Caractéristiques des ménages et des logements,118,Nombre total de ménages privés selon la taille du ménage,9810,,
+2011,Caractéristiques des ménages et des logements,119,1 personne,2225,,
+2011,Caractéristiques des ménages et des logements,120,2 personnes,3210,,
+2011,Caractéristiques des ménages et des logements,121,3 personnes,1795,,
+2011,Caractéristiques des ménages et des logements,122,4 personnes,1855,,
+2011,Caractéristiques des ménages et des logements,123,5 personnes,540,,
+2011,Caractéristiques des ménages et des logements,124,6 personnes ou plus,185,,
+2011,Caractéristiques des ménages et des logements,125,Nombre de personnes dans les ménages privés,25285,,
+2011,Caractéristiques des ménages et des logements,126,Nombre moyen de personnes dans les ménages privés,2.6,,
+2011,Langue maternelle détaillée,127,Langue maternelle détaillée - Population totale à l'exclusion des pensionnaires d'un établissement institutionnel,25465,12430,13030
+2011,Langue maternelle détaillée,128,  Réponses uniques,25130,12265,12865
+2011,Langue maternelle détaillée,129,    Anglais,1200,605,595
+2011,Langue maternelle détaillée,130,    Français,23300,11345,11955
+2011,Langue maternelle détaillée,131,    Langues non officielles,625,310,315
+2011,Langue maternelle détaillée,132,      Langues autochtones sélectionnées,0,0,0
+2011,Langue maternelle détaillée,133,        Atikamekw,0,0,0
+2011,Langue maternelle détaillée,134,        Cri; n.d.a.,0,0,0
+2011,Langue maternelle détaillée,135,        Déné,0,0,0
+2011,Langue maternelle détaillée,136,        Innu/montagnais,0,0,0
+2011,Langue maternelle détaillée,137,        Inuktitut,0,0,0
+2011,Langue maternelle détaillée,138,        Mi'kmaq,0,0,0
+2011,Langue maternelle détaillée,139,        Ojibwé,0,0,0
+2011,Langue maternelle détaillée,140,        Oji-cri,0,0,0
+2011,Langue maternelle détaillée,141,        Stoney,0,0,0
+2011,Langue maternelle détaillée,142,Langues non autochtones sélectionnées,615,305,310
+2011,Langue maternelle détaillée,143,        Langues africaines; n.i.a.,0,0,0
+2011,Langue maternelle détaillée,144,        Afrikaans,0,0,0
+2011,Langue maternelle détaillée,145,        Akan (twi),0,0,0
+2011,Langue maternelle détaillée,146,        Albanais,0,0,0
+2011,Langue maternelle détaillée,147,        Amharique,0,0,0
+2011,Langue maternelle détaillée,148,        Arabe,75,35,40
+2011,Langue maternelle détaillée,149,        Arménien,5,0,0
+2011,Langue maternelle détaillée,150,        Langues bantoues; n.i.a.,0,0,0
+2011,Langue maternelle détaillée,151,        Bengali,0,5,0
+2011,Langue maternelle détaillée,152,        Langues berbères (kabyle),5,5,0
+2011,Langue maternelle détaillée,153,        Langues bisayennes,0,0,0
+2011,Langue maternelle détaillée,154,        Bosniaque,0,0,0
+2011,Langue maternelle détaillée,155,        Bulgare,10,0,5
+2011,Langue maternelle détaillée,156,        Birman,0,0,0
+2011,Langue maternelle détaillée,157,        Cantonais,5,5,5
+2011,Langue maternelle détaillée,158,        Chinois; n.d.a.,20,10,10
+2011,Langue maternelle détaillée,159,        Langues créoles,25,15,10
+2011,Langue maternelle détaillée,160,        Croate,0,0,0
+2011,Langue maternelle détaillée,161,        Tchèque,0,0,0
+2011,Langue maternelle détaillée,162,        Danois,5,0,0
+2011,Langue maternelle détaillée,163,        Néerlandais,15,5,5
+2011,Langue maternelle détaillée,164,        Estonien,0,0,0
+2011,Langue maternelle détaillée,165,        Finnois,5,0,0
+2011,Langue maternelle détaillée,166,        Flamand,5,0,0
+2011,Langue maternelle détaillée,167,        Fou-kien,0,0,0
+2011,Langue maternelle détaillée,168,        Allemand,25,10,15
+2011,Langue maternelle détaillée,169,        Grec,25,15,10
+2011,Langue maternelle détaillée,170,        Gujarati,0,0,0
+2011,Langue maternelle détaillée,171,        Hakka,0,0,0
+2011,Langue maternelle détaillée,172,        Hébreu,0,0,0
+2011,Langue maternelle détaillée,173,        Hindi,0,0,0
+2011,Langue maternelle détaillée,174,        Hongrois,0,0,0
+2011,Langue maternelle détaillée,175,        Ilocano,0,0,0
+2011,Langue maternelle détaillée,176,        Langues indo-iraniennes; n.i.a.,0,0,0
+2011,Langue maternelle détaillée,177,        Italien,50,25,20
+2011,Langue maternelle détaillée,178,        Japonais,0,0,5
+2011,Langue maternelle détaillée,179,        Khmer (cambodgien),0,0,0
+2011,Langue maternelle détaillée,180,        Coréen,5,0,0
+2011,Langue maternelle détaillée,181,        Kurde,0,0,0
+2011,Langue maternelle détaillée,182,        Lao,0,0,0
+2011,Langue maternelle détaillée,183,        Letton,0,0,0
+2011,Langue maternelle détaillée,184,        Lingala,0,0,0
+2011,Langue maternelle détaillée,185,        Lituanien,0,0,0
+2011,Langue maternelle détaillée,186,        Macédonien,10,5,5
+2011,Langue maternelle détaillée,187,        Malais,0,0,0
+2011,Langue maternelle détaillée,188,        Malayalam,0,0,0
+2011,Langue maternelle détaillée,189,        Maltais,0,0,0
+2011,Langue maternelle détaillée,190,        Mandarin,5,0,5
+2011,Langue maternelle détaillée,191,        Marathi,0,0,0
+2011,Langue maternelle détaillée,192,        Népalais,0,0,0
+2011,Langue maternelle détaillée,193,        Langues nigéro-congolaises; n.i.a.,5,5,0
+2011,Langue maternelle détaillée,194,        Norvégien,0,0,0
+2011,Langue maternelle détaillée,195,        Oromo,5,5,5
+2011,Langue maternelle détaillée,196,        Pendjabi,0,0,0
+2011,Langue maternelle détaillée,197,        Pachto,0,0,0
+2011,Langue maternelle détaillée,198,        Persan (farsi),20,5,10
+2011,Langue maternelle détaillée,199,        Polonais,20,10,10
+2011,Langue maternelle détaillée,200,        Portugais,60,30,30
+2011,Langue maternelle détaillée,201,        Roumain,35,15,20
+2011,Langue maternelle détaillée,202,        Rundi (kiroundi),0,0,0
+2011,Langue maternelle détaillée,203,        Russe,10,0,5
+2011,Langue maternelle détaillée,204,        Rwanda (kinyarwanda),0,0,0
+2011,Langue maternelle détaillée,205,        Langues sémitiques; n.i.a.,0,0,0
+2011,Langue maternelle détaillée,206,        Serbe,0,0,0
+2011,Langue maternelle détaillée,207,        Serbo-croate,0,0,0
+2011,Langue maternelle détaillée,208,        Shanghaïen,0,0,0
+2011,Langue maternelle détaillée,209,        Langues des signes; n.i.a.,0,0,0
+2011,Langue maternelle détaillée,210,        Sindhi,0,0,0
+2011,Langue maternelle détaillée,211,        Singhalais,0,0,0
+2011,Langue maternelle détaillée,212,        Langues sino-tibétaines; n.i.a.,0,0,0
+2011,Langue maternelle détaillée,213,        Langues slaves; n.i.a.,5,0,5
+2011,Langue maternelle détaillée,214,        Slovaque,5,0,5
+2011,Langue maternelle détaillée,215,        Slovène,0,5,0
+2011,Langue maternelle détaillée,216,        Somali,0,0,0
+2011,Langue maternelle détaillée,217,        Espagnol,130,65,65
+2011,Langue maternelle détaillée,218,        Swahili,0,0,0
+2011,Langue maternelle détaillée,219,        Suédois,0,0,5
+2011,Langue maternelle détaillée,220,        Tagalog (pilipino),5,0,0
+2011,Langue maternelle détaillée,221,        Taïwanais,0,0,0
+2011,Langue maternelle détaillée,222,        Tamoul,0,5,0
+2011,Langue maternelle détaillée,223,        Telougou,0,0,0
+2011,Langue maternelle détaillée,224,        Thaï,0,0,0
+2011,Langue maternelle détaillée,225,        Langues tibétaines,0,0,0
+2011,Langue maternelle détaillée,226,        Tigregna,0,0,0
+2011,Langue maternelle détaillée,227,        Turc,5,5,5
+2011,Langue maternelle détaillée,228,        Ukrainien,0,0,5
+2011,Langue maternelle détaillée,229,        Ourdou,0,5,0
+2011,Langue maternelle détaillée,230,        Vietnamien,15,10,0
+2011,Langue maternelle détaillée,231,        Yiddish,0,0,0
+2011,Langue maternelle détaillée,232,      Autres langues,10,10,5
+2011,Langue maternelle détaillée,233,  Réponses multiples,340,165,175
+2011,Langue maternelle détaillée,234,    Anglais et français,235,115,120
+2011,Langue maternelle détaillée,235,    Anglais et langue non officielle,10,10,5
+2011,Langue maternelle détaillée,236,    Français et langue non officielle,70,30,40
+2011,Langue maternelle détaillée,237,    Anglais; français et langue non officielle,15,10,5
+2011,Connaissance des langues officielles,238,Connaissance des langues officielles - Population totale à l'exclusion des pensionnaires d'un établissement institutionnel,25465,12430,13035
+2011,Connaissance des langues officielles,239,  Anglais seulement,240,100,135
+2011,Connaissance des langues officielles,240,  Français seulement,12690,5700,6990
+2011,Connaissance des langues officielles,241,  Anglais et français,12515,6620,5900
+2011,Connaissance des langues officielles,242,  Ni l'anglais ni le français,20,10,10
+2011,Première langue officielle parlée,243,Première langue officielle parlée - Population totale à l'exclusion des pensionnaires d'un établissement institutionnel,25465,12430,13035
+2011,Première langue officielle parlée,244,  Anglais,1340,680,655
+2011,Première langue officielle parlée,245,  Français,23905,11645,12260
+2011,Première langue officielle parlée,246,  Anglais et français,200,95,105
+2011,Première langue officielle parlée,247,  Ni l'anglais ni le français,20,10,10
+2011,Première langue officielle parlée,248,Minorité de langue officielle (nombre),1440,730,705
+2011,Première langue officielle parlée,249,Minorité de langue officielle (pourcentage),5.7,5.9,5.4
+2011,Langue parlée le plus souvent à la maison détaillée,250,Langue parlée le plus souvent à la maison détaillée - Population totale à l'exclusion des pensionnaires d'un établissement institutionnel,25465,12430,13035
+2011,Langue parlée le plus souvent à la maison détaillée,251,  Réponses uniques,25115,12270,12850
+2011,Langue parlée le plus souvent à la maison détaillée,252,    Anglais,1185,600,590
+2011,Langue parlée le plus souvent à la maison détaillée,253,    Français,23705,11570,12140
+2011,Langue parlée le plus souvent à la maison détaillée,254,    Langues non officielles,225,95,125
+2011,Langue parlée le plus souvent à la maison détaillée,255,      Langues autochtones sélectionnées,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,256,        Atikamekw,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,257,        Cri; n.d.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,258,        Déné,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,259,        Innu/montagnais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,260,        Inuktitut,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,261,        Mi'kmaq,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,262,        Ojibwé,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,263,        Oji-cri,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,264,        Stoney,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,265,      Langues non autochtones sélectionnées,220,100,125
+2011,Langue parlée le plus souvent à la maison détaillée,266,        Langues africaines; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,267,        Afrikaans,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,268,        Akan (twi),0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,269,        Albanais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,270,        Amharique,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,271,        Arabe,25,10,15
+2011,Langue parlée le plus souvent à la maison détaillée,272,        Arménien,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,273,        Langues bantoues; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,274,        Bengali,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,275,        Langues berbères (kabyle),0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,276,        Langues bisayennes,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,277,        Bosniaque,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,278,        Bulgare,5,5,0
+2011,Langue parlée le plus souvent à la maison détaillée,279,        Birman,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,280,        Cantonais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,281,        Chinois; n.d.a.,15,10,5
+2011,Langue parlée le plus souvent à la maison détaillée,282,        Langues créoles,5,5,5
+2011,Langue parlée le plus souvent à la maison détaillée,283,        Croate,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,284,        Tchèque,5,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,285,        Danois,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,286,        Néerlandais,10,0,5
+2011,Langue parlée le plus souvent à la maison détaillée,287,        Estonien,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,288,        Finnois,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,289,        Flamand,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,290,        Fou-kien,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,291,        Allemand,5,0,5
+2011,Langue parlée le plus souvent à la maison détaillée,292,        Grec,10,10,10
+2011,Langue parlée le plus souvent à la maison détaillée,293,        Gujarati,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,294,        Hakka,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,295,        Hébreu,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,296,        Hindi,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,297,        Hongrois,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,298,        Ilocano,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,299,        Langues indo-iraniennes; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,300,        Italien,10,5,5
+2011,Langue parlée le plus souvent à la maison détaillée,301,        Japonais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,302,        Khmer (cambodgien),0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,303,        Coréen,5,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,304,        Kurde,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,305,        Lao,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,306,        Letton,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,307,        Lingala,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,308,        Lituanien,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,309,        Macédonien,5,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,310,        Malais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,311,        Malayalam,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,312,        Maltais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,313,        Mandarin,5,5,5
+2011,Langue parlée le plus souvent à la maison détaillée,314,        Marathi,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,315,        Népalais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,316,        Langues nigéro-congolaises; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,317,        Norvégien,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,318,        Oromo,5,0,5
+2011,Langue parlée le plus souvent à la maison détaillée,319,        Pendjabi,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,320,        Pachto,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,321,        Persan (farsi),15,5,15
+2011,Langue parlée le plus souvent à la maison détaillée,322,        Polonais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,323,        Portugais,15,5,10
+2011,Langue parlée le plus souvent à la maison détaillée,324,        Roumain,30,15,15
+2011,Langue parlée le plus souvent à la maison détaillée,325,        Rundi (kiroundi),0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,326,        Russe,5,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,327,        Rwanda (kinyarwanda),0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,328,        Langues sémitiques; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,329,        Serbe,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,330,        Serbo-croate,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,331,        Shanghaïen,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,332,        Langues des signes; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,333,        Sindhi,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,334,        Singhalais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,335,        Langues sino-tibétaines; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,336,        Langues slaves; n.i.a.,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,337,        Slovaque,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,338,        Slovène,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,339,        Somali,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,340,        Espagnol,45,20,25
+2011,Langue parlée le plus souvent à la maison détaillée,341,        Swahili,0,5,5
+2011,Langue parlée le plus souvent à la maison détaillée,342,        Suédois,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,343,        Tagalog (pilipino),0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,344,        Taïwanais,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,345,        Tamoul,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,346,        Telougou,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,347,        Thaï,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,348,        Langues tibétaines,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,349,        Tigregna,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,350,        Turc,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,351,        Ukrainien,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,352,        Ourdou,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,353,        Vietnamien,5,0,5
+2011,Langue parlée le plus souvent à la maison détaillée,354,        Yiddish,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,355,      Autres langues,0,0,0
+2011,Langue parlée le plus souvent à la maison détaillée,356,  Réponses multiples,350,160,185
+2011,Langue parlée le plus souvent à la maison détaillée,357,    Anglais et français,240,110,130
+2011,Langue parlée le plus souvent à la maison détaillée,358,    Anglais et langue non officielle,10,10,5
+2011,Langue parlée le plus souvent à la maison détaillée,359,    Français et langue non officielle,75,35,35
+2011,Langue parlée le plus souvent à la maison détaillée,360,    Anglais; français et langue non officielle,25,10,10
+2011,Autre langue parlée régulièrement à la maison détaillée,361,Autre langue parlée régulièrement à la maison détaillée - Population totale à l'exclusion des pensionnaires d'un établissement institutionnel,25465,12435,13035
+2011,Autre langue parlée régulièrement à la maison détaillée,362,  Aucune,22785,11100,11680
+2011,Autre langue parlée régulièrement à la maison détaillée,363,  Réponses uniques,2580,1280,1300
+2011,Autre langue parlée régulièrement à la maison détaillée,364,    Anglais,1740,875,865
+2011,Autre langue parlée régulièrement à la maison détaillée,365,    Français,525,270,260
+2011,Autre langue parlée régulièrement à la maison détaillée,366,    Langues non officielles,320,140,180
+2011,Autre langue parlée régulièrement à la maison détaillée,367,      Langues autochtones sélectionnées,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,368,        Atikamekw,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,369,        Cri; n.d.a.,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,370,        Déné,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,371,        Innu/montagnais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,372,        Inuktitut,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,373,        Mi'kmaq,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,374,        Ojibwé,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,375,        Oji-cri,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,376,        Stoney,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,377,      Langues non autochtones sélectionnées,305,135,170
+2011,Autre langue parlée régulièrement à la maison détaillée,378,        Langues africaines; n.i.a.,5,5,0
+2011,Autre langue parlée régulièrement à la maison détaillée,379,        Afrikaans,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,380,        Akan (twi),0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,381,        Albanais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,382,        Amharique,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,383,        Arabe,50,25,25
+2011,Autre langue parlée régulièrement à la maison détaillée,384,        Arménien,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,385,        Langues bantoues; n.i.a.,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,386,        Bengali,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,387,        Langues berbères (kabyle),0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,388,        Langues bisayennes,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,389,        Bosniaque,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,390,        Bulgare,5,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,391,        Birman,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,392,        Cantonais,5,5,0
+2011,Autre langue parlée régulièrement à la maison détaillée,393,        Chinois; n.d.a.,0,5,0
+2011,Autre langue parlée régulièrement à la maison détaillée,394,        Langues créoles,25,10,10
+2011,Autre langue parlée régulièrement à la maison détaillée,395,        Croate,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,396,        Tchèque,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,397,        Danois,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,398,        Néerlandais,5,5,0
+2011,Autre langue parlée régulièrement à la maison détaillée,399,        Estonien,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,400,        Finnois,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,401,        Flamand,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,402,        Fou-kien,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,403,        Allemand,15,5,10
+2011,Autre langue parlée régulièrement à la maison détaillée,404,        Grec,10,0,5
+2011,Autre langue parlée régulièrement à la maison détaillée,405,        Gujarati,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,406,        Hakka,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,407,        Hébreu,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,408,        Hindi,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,409,        Hongrois,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,410,        Ilocano,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,411,        Langues indo-iraniennes; n.i.a.,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,412,        Italien,25,5,15
+2011,Autre langue parlée régulièrement à la maison détaillée,413,        Japonais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,414,        Khmer (cambodgien),0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,415,        Coréen,5,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,416,        Kurde,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,417,        Lao,5,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,418,        Letton,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,419,        Lingala,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,420,        Lituanien,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,421,        Macédonien,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,422,        Malais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,423,        Malayalam,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,424,        Maltais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,425,        Mandarin,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,426,        Marathi,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,427,        Népalais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,428,        Langues nigéro-congolaises; n.i.a.,5,0,5
+2011,Autre langue parlée régulièrement à la maison détaillée,429,        Norvégien,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,430,        Oromo,5,5,0
+2011,Autre langue parlée régulièrement à la maison détaillée,431,        Pendjabi,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,432,        Pachto,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,433,        Persan (farsi),0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,434,        Polonais,5,5,0
+2011,Autre langue parlée régulièrement à la maison détaillée,435,        Portugais,20,5,10
+2011,Autre langue parlée régulièrement à la maison détaillée,436,        Roumain,0,0,5
+2011,Autre langue parlée régulièrement à la maison détaillée,437,        Rundi (kiroundi),0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,438,        Russe,5,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,439,        Rwanda (kinyarwanda),0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,440,        Langues sémitiques; n.i.a.,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,441,        Serbe,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,442,        Serbo-croate,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,443,        Shanghaïen,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,444,        Langues des signes; n.i.a.,5,0,5
+2011,Autre langue parlée régulièrement à la maison détaillée,445,        Sindhi,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,446,        Singhalais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,447,        Langues sino-tibétaines; n.i.a.,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,448,        Langues slaves; n.i.a.,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,449,        Slovaque,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,450,        Slovène,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,451,        Somali,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,452,        Espagnol,95,45,55
+2011,Autre langue parlée régulièrement à la maison détaillée,453,        Swahili,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,454,        Suédois,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,455,        Tagalog (pilipino),0,5,0
+2011,Autre langue parlée régulièrement à la maison détaillée,456,        Taïwanais,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,457,        Tamoul,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,458,        Telougou,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,459,        Thaï,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,460,        Langues tibétaines,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,461,        Tigregna,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,462,        Turc,5,0,5
+2011,Autre langue parlée régulièrement à la maison détaillée,463,        Ukrainien,0,0,5
+2011,Autre langue parlée régulièrement à la maison détaillée,464,        Ourdou,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,465,        Vietnamien,0,0,5
+2011,Autre langue parlée régulièrement à la maison détaillée,466,        Yiddish,0,0,0
+2011,Autre langue parlée régulièrement à la maison détaillée,467,      Autres langues,15,10,10
+2011,Autre langue parlée régulièrement à la maison détaillée,468,  Réponses multiples,100,45,55
+2011,Autre langue parlée régulièrement à la maison détaillée,469,    Anglais et français,15,10,5
+2011,Autre langue parlée régulièrement à la maison détaillée,470,    Anglais et langue non officielle,55,20,35
+2011,Autre langue parlée régulièrement à la maison détaillée,471,    Français et langue non officielle,30,20,10
+2011,Autre langue parlée régulièrement à la maison détaillée,472,    Anglais; français et langue non officielle,0,0,0

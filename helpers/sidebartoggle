@@ -1,0 +1,18 @@
+function checkScreenSize() {
+  var width = window.innerWidth;
+  var toggleButton = document.querySelector('.button-collapse-toggle');
+
+  if (width <= 768) {
+    // C'est un écran de mobile, masquez le bouton
+    toggleButton.style.display = 'none';
+  } else {
+    // C'est un écran plus grand, affichez le bouton
+    toggleButton.style.display = 'block'; // ou 'inline-block', selon votre mise en page
+  }
+}
+
+// Exécutez la fonction au chargement de la page
+checkScreenSize();
+
+// Exécutez la fonction chaque fois que la taille de la fenêtre change
+window.addEventListener('resize', checkScreenSize);

@@ -1,0 +1,126 @@
+/* Dans un fichier CSS lié à votre application Shiny */
+
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+
+
+
+body {
+  font-family: 'Onest', sans-serif;
+}
+
+
+
+/* Paramètre de la navbar */
+    .navbar {
+      padding-top: 5px; /* Ceci permet de centrer l'image dans son conteneur */
+      #padding-bottom: -10px; /* Ceci permet de centrer l'image dans son conteneur */
+      margin-bottom: -20px; /* Ceci permet de centrer l'image dans son conteneur */
+    }
+  
+
+
+/* accueil */
+
+.accueil-card {
+  background-color: #203245; /* Changez cette couleur selon vos besoins */
+  color: #ffffff; /* Changez cette couleur selon vos besoins */
+  border-radius: 0rem;
+}
+
+.accueil-normal-card {
+  border-radius: 0rem;
+  margin: 0 !important;
+}
+
+/* accueil */
+.footer-card {
+ background-color: #111c26 !important;
+ color: white !important;
+   border-radius: 0rem;
+      }
+
+
+/* card header */
+.custom-header-color {
+  background-color: #111c26 !important; /* Remplacez #123456 par le code hexadécimal de votre couleur */
+  color: #ffffff !important; /* Pour le texte, utilisez une couleur qui contraste bien avec votre couleur d'arrière-plan */
+}
+
+/* card picker */
+.bootstrap-select .dropdown-menu {
+    max-width: 250px; /* ou toute autre largeur fixe selon votre besoin */
+}
+
+
+
+ /*sliders*/  
+ 
+  /*sliders min max values*/  
+  .irs {
+      color: #111c26 !important;
+  }
+
+
+  .irs-bar{
+    background-color: #111c26 !important;
+    margin-left: 0px; /* Vous devrez peut-être ajuster cette valeur */
+  }
+  
+  /*cacher la barre bleue orignale*/
+    .irs-bar-edge{
+    opacity: 0; /* 50% transparent */
+    transparancy
+  }
+  
+  .irs-line {
+    border-color: #005FFFED !important;
+    margin-left:10px;
+  }
+  
+  .irs-single{
+     background-color: #304154 !important;
+      color: #efefef !important;
+  }
+  
+  .irs-handle{
+    background-color: #304154 !important;
+    
+  }
+  
+/*DT*/
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  font-size: 10px;
+}
+
+table.dataTable tbody td {
+  font-size: 11px;
+}
+
+table.dataTable thead th {
+  font-size: 12px;
+  background-color: #304154 !important;
+  color: white !important;
+}
+
+.dataTables_wrapper .dataTables_info {
+  font-size: 10px;
+  color: white !important;
+}
+
+table.dataTable tbody tr.even.active,
+table.dataTable tbody tr.odd.active {
+  background-color: #6FC9FB !important; /* Change background color */
+  color: #304154 !important; /* Change text color */
+}
+
+/*leaflet*/
+.info.legend.leaflet-control {
+  font-family: 'Onest', sans-serif;
+}
+
+.leaflet-control-layers-overlays {
+  font-family: 'Onest', sans-serif;
+}
+
+
+
